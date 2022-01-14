@@ -1,0 +1,135 @@
+Welcome to the Jack’s TV system
+Please enter any integer to proceed or -1 to show the store profit for this month: 5
+Please insert your staff ID: 
+123
+Please enter the original price of the television: 
+2899
+Please enter the brand of the television: 
+Please enter 1 for Samsung
+Please enter 2 for Sony
+Please enter 3 for Panasonic
+Please enter 4 for Philips
+Please enter 5 for LG
+Please enter 6 for Toshiba
+1
+Please enter the type of the television: 
+Please enter 1 for LED TV
+Please enter 2 for Plasma TV
+Please enter 3 for Smart TV
+1
+The type of television does not exist
+The brand of television does not exist
+Please enter 1 to accept the installation package
+Please enter 2 to reject the installation package
+1
+The total price must been paid : RM  3565.77 
+Please enter the amount paid: RM 
+3600.00
+************************************************
+Welcome to the Jack’s TV
+************************************************
+Staff ID : 123
+The brand and of the television is : Samsung LED TV
+The price of the television is :RM  3420.82 
+The installation charge is :RM  144.95 
+-------------------------------------------------
+The total price must been paid :RM  3565.77 
+-------------------------------------------------
+The money paid by the customer: RM  3600.00 
+The balance for the customer is: RM  34.23 
+Thank you for choosing Jack’s TV
+
+Please enter any integer to proceed or -1 to show the store profit for this month: 2
+Please insert your staff ID: 
+123
+Please enter the original price of the television: 
+2799
+Please enter the brand of the television: 
+Please enter 1 for Samsung
+Please enter 2 for Sony
+Please enter 3 for Panasonic
+Please enter 4 for Philips
+Please enter 5 for LG
+Please enter 6 for Toshiba
+1
+Please enter the type of the television: 
+Please enter 1 for LED TV
+Please enter 2 for Plasma TV
+Please enter 3 for Smart TV
+2
+The type of television does not exist
+The brand of television does not exist
+Please enter 1 to accept the installation package
+Please enter 2 to reject the installation package
+1
+The total price must been paid : RM  3414.78 
+Please enter the amount paid: RM 
+3500.00
+************************************************
+Welcome to the Jack’s TV
+************************************************
+Staff ID : 123
+The brand and of the television is : Samsung Plasma TV
+The price of the television is :RM  3274.83 
+The installation charge is :RM  139.95 
+-------------------------------------------------
+The total price must been paid :RM  3414.78 
+-------------------------------------------------
+The money paid by the customer: RM  3500.00 
+The balance for the customer is: RM  85.22 
+Thank you for choosing Jack’s TV
+
+Please enter any integer to proceed or -1 to show the store profit for this month: 3
+Please insert your staff ID: 
+123
+Please enter the original price of the television: 
+2999
+Please enter the brand of the television: 
+Please enter 1 for Samsung
+Please enter 2 for Sony
+Please enter 3 for Panasonic
+Please enter 4 for Philips
+Please enter 5 for LG
+Please enter 6 for Toshiba
+1
+Please enter the type of the television: 
+Please enter 1 for LED TV
+Please enter 2 for Plasma TV
+Please enter 3 for Smart TV
+3
+The brand of television does not exist
+Please enter 1 to accept the installation package
+Please enter 2 to reject the installation package
+1
+The total price must been paid : RM  3718.76 
+Please enter the amount paid: RM 
+3800.00
+************************************************
+Welcome to the Jack’s TV
+************************************************
+Staff ID : 123
+The brand and of the television is : Samsung Smart TV
+The price of the television is :RM  3568.81 
+The installation charge is :RM  149.95 
+-------------------------------------------------
+The total price must been paid :RM  3718.76 
+-------------------------------------------------
+The money paid by the customer: RM  3800.00 
+The balance for the customer is: RM  81.24 
+Thank you for choosing Jack’s TV
+
+Please enter any integer to proceed or -1 to show the store profit for this month: -1
+The Jack's TV store profit for this month is: RM  1567.46 
+The total television sold in a month is : 3
+Please enter the expenses of the store for this month
+Please enter the first staff salary for this month
+50
+Please enter the second staff salary for this month
+50
+Please enter the store rent for this month
+50
+Please enter the electricity bill for this month
+10
+Please enter the water bill for this month
+10
+The Jack's TV store profit for this month is: RM  1397.46 
