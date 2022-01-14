@@ -1,0 +1,205 @@
+------------------------------------------------------------------------------
+                          Hi welcome to Talasco                               
+                       'Protection is our necessity'                          
+                                                                              
+ Please select between this option :                                          
+                   A) Insurance cover                                         
+                   B) Insurance claim(Staff)                                  
+Your Answer : A
+---------------------------------Details--------------------------------------
+ Our insurance offer a protection for :                                       
+                                                                              
+  a) Stolen Phone by thief - If your phone are being stolen by thief,you can  
+     get a new phone with same model and we also will file a report to the    
+     police.                                                                  
+  b) Free Repair Service   - If your phone has been damage like a cracked     
+     phone screen or any kind of problem. You will get a comepensation for a  
+     free repair service but limit with certain amount RM.                    
+  c) Overseas Travel       - If you are study abroad or having a vacation on  
+     our company will pay your data roaming price                             
+---------------------------------Price----------------------------------------
+ This is our price : # For Tier A phone - RM 25/ month                        
+    $(if want)       # For Tier B phone - RM 45/ month                        
+    #(a must)        # Monthly payment -  RM 30/ month                        
+                      Additional Insurance                                    
+                     # Instant Cover    - +RM 8                               
+                     # RM 3200 for claim (normal claim only RM 800) - + RM 30 
+                     # Human mistake cover - + RM 100                         
+--------------------------------Condition-------------------------------------
+ Only eligible if eligibility percentage under 30 %                           
+ This insurance must pay every month for 12 months                            
+ If there is any unpaid payment for once. We will cancel your service         
+--------------------------------Insurance-------------------------------------
+ Please insert your first name: Azib 
+ Please insert your last name: Fikri
+ Please enter your ic number: 020306140419
+Please enter your monthly income: RM90000
+ Please enter your monthly commitment: RM2000
+------------------------------Type Of Insurance-------------------------------
+ From the list please find your tier phone model                               
+ Tier A : Apple iPhone 5C 16GB
+          Apple iPhone 6
+          Apple iPhone 6S 16GB, 32GB, 64GB,
+          Apple iPhone 7 32GB, 128GB
+          Apple iPhone 8 64GB, 128GB
+          Apple iPhone SE 2020 64GB, 128GB
+          Google Pixel 3A XL 64GB
+          Google Pixel 3A 64GB
+          HTC ONE M9
+          Samsung Galaxy A10e 32GB
+          Samsung Galaxy J3
+		     Samsung Galaxy J7
+	    	 Samsung Galaxy S3 16GB
+		     Samsung J727
+			 Samsung Galaxy A6 SHINE 32GB
+			 Samsung Galaxy A11 32GB
+			 Samsung Galaxy A20 32GB
+			 Samsung Galaxy A21 32GB
+			 Samsung Galaxy A32 5G 64GB
+			 Samsung Galaxy A50 64GB
+			 Samsung Galaxy A51 5G 128GB
+ Tier B : Apple iPhone 11 64GB, 128GB, 256GB
+			 Apple iPhone 11 PRO 64GB, 256GB, 
+			 512GB
+			 Apple iPhone 11 Pro Max 64GB, 
+			 256GB, 512GB
+			 Apple iPhone 6S Plus 16GB, 32GB, 
+			 64GB
+			 Apple iPhone 6 Plus 16GB, 64GB, 
+			 128GB
+			 Apple iPhone 7 256GB
+			 Apple iPhone 7 Plus 32GB, 128GB, 
+			 256GB
+			 Apple iPhone 8 256GBApple iPhone 
+			 8 Plus 64GB, 128GB, 256GB
+			 Apple iPhone SE 2020 256GB
+			 Apple iPhone X 64GB, 256GB
+			 Apple iPhone XR 64GB, 128GB, 256GB
+			 Apple iPhone XS 256GB, 512GB
+			 Apple iPhone XS 64GB, 256GB, 512GB
+			 Apple iPhone XS Max 64GB
+			 Apple iPhone 12 PRO 256GB
+			 Apple iPhone PRO MAX 128GB 
+			 Apple iPhone 12 64GB, 128GB, 256GB
+			 Apple iPhone 12 PRO 128GB
+			 Apple iPhone 12 PRO MAX 256GB, 
+			 512GB
+			 Apple iPhone 12 MINI 64GB, 128GB
+			 Google Pixel 3 64GB, 128GB
+			 Google Pixel 3 XL 64GB, 128GB
+			 Google Pixel 4 64GB 128GB
+			 Google Pixel 4 XL 64GB, 128GB
+			 Google Pixel 5 128GB
+			 Samsung Galaxy Fold 512GB
+			 Samsung Galaxy Note 10 256 GB
+			 Samsung Galaxy Note 10 Plus 256GB
+			 Samsung Galaxy Note 8 64 GB
+			 Samsung Galaxy Note 9 128GB
+			 Samsung Galaxy S10 128GB
+			 Samsung Galaxy S10 Plus 128GB, 
+			 512GB, 1TB
+			 Samsung Galaxy S10e 128GB, 256GB
+			 Samsung Galaxy S20 5G 128GB
+			 Samsung Galaxy S20 FE 128GB
+			 Samsung Galaxy S20 Plus 5G 128GB
+			 Samsung Galaxy S20 Ultra 5G 128GB
+			 Samsung Galaxy S20 ULTRA 5G 
+			 512GB
+			 Samsung Galaxy S21 5G 128GB
+			 Samsung Galaxy S21 5G 256GB 
+			 Samsung Galaxy S21 ULTRA 5G 
+			 128GB
+			 Samsung Galaxy S21 PLUS 5G 128GB
+			 Samsung Galaxy S6 128GB
+			 Samsung Galaxy S7 32gb
+			 Samsung Galaxy S7 ACTIVE
+			 Samsung Galaxy S7 Edge 32gb
+			 Samsung Galaxy S8 64GB
+			 Samsung Galaxy S8 Active
+			 Samsung Galaxy S8 Plus 64GB
+			 Samsung Galaxy S9 64GB
+			 Samsung Galaxy S9 Plus 64GB
+			 Samsung Galaxy S10 5G 256GB
+			 Samsung Galaxy NOTE 5 32 GB
+			 Samsung Galaxy 5 64 GB
+			 Samsung Galaxy NOTE 8
+			 Samsung Galaxy NOTE 9 512GB 
+			 Samsung Galaxy NOTE 20 5G 128GB
+			 Samsung Galaxy NOTE 20 
+			 ULTRA 5G 128GB
+			 Samsung Galaxy NOTE 10 
+			 PLUS 512GB
+			 Samsung Galaxy A71 128GB
+			 Samsung Galaxy Z FLIP 5G 256GB
+			 Samsung Galaxy Z FLIP 256GB 
+
+ Is your phone tier A ( 1 if yes , 0 if no) : 1
+ Is your phone tier B ( 1 if yes , 0 if no) : 1
+ Want to add more device to use this insurance? Please enter the quantity  For phone tier A  : 1
+ For phone tier B  : 0
+---------------------------Additional Features--------------------------------
+ Instant cover? (Enter 1 if yes , 0 if no)0
+ RM 3200 claim for mechanical and software problems(Enter 1 if yes , 0 if no):  1
+ Human Mistake Cover? (This only cover for accidently misplace your device and lose it (Enter 1 if yes , 0 if no)1
+---------------------Please wait proceeding your receipt----------------------
+------------------------------------------------------------------------------
+                                 Receipt                                      
+------------------------------------------------------------------------------
+                                                                              
+                                                                              
+     NAME: AzibFikri
+    IC NO: 020306140419
+    Payment per month: RM255.0
+                                                                              
+                                                                              
+                                                                              
+------------------------------------------------------------------------------
+                               Thank you >_<                                  
+------------------------------------------------------------------------------
+
+For option B
+
+
+
+------------------------------------------------------------------------------
+                          Hi welcome to Talasco                               
+                       'Protection is our necessity'                          
+                                                                              
+ Please select between this option :                                          
+                   A) Insurance cover                                         
+                   B) Insurance claim(Staff)                                  
+Your Answer : b
+Please enter Staff ID
+002
+Please enter the password
+123456789
+You have logged in!                                                           
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+How many months does the customer pay the insurance : 
+24
+What kind of insurance you want to claim :                                    
+                   A. Thief Cover                                             
+                   B. Free Repair Service                                     
+                   C. Data Travel Cover                                       
+a
+Is your phone get stolen by thief or you missplace it?
+  A - Stolen by thief (with police proof)             
+  B - Misplace it                                     
+Your Answer : a
+What is the price of your phone : RM 8000
+Do you have instant cover ?: 
+Y or N 
+Y
+------------------------------------------------------------------------------
+                                 Receipt                                      
+------------------------------------------------------------------------------
+ ID STAFF : 002
+ Your total claim RM 8000.0
+              You will get your phone in 3 days                               
+------------------------------------------------------------------------------
+                               Thank you >_<                                  
+------------------------------------------------------------------------------
+
+
+
