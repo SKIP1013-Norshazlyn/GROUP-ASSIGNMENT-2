@@ -1,0 +1,151 @@
+1.	package myAssignment2;
+2.	
+3.	import java.util.Scanner;
+4.	
+5.	class Assignment2 {
+6.	
+7.		public static void main(String[] args) {
+8.			Scanner in=new Scanner(System.in);
+9.			
+10.			int num,code;
+11.			int hour, services;
+12.			int goods,quantity,goodstotal=0;
+13.			double laptop;
+14.			double customertype,goodscond,laptopcond,shipping;
+15.			double servicesfees,goodsfees=0.0,sumgoods=0.0,laptopfees;
+16.			double value1=0.0 ,value2=0.0 ,value3=0.0;
+17.			double totalfees=0.0;
+18.		
+19.			System.out.println("********** Welcome To UUM LTE Communication 
+Enterprise **********");
+20.			System.out.println();
+21.			System.out.println("Hello our dear customer !");
+22.			System.out.println("Please enter the number of section you will 
+use. ");
+23.			num=in.nextInt();
+24.			
+25.			for(int i=0; i<num; i++) {
+26.			System.out.println("Please enter the code section : ");
+27.			System.out.println("For code '1' - Services Section ");
+28.			System.out.println("For code '2' - Goods Section ");
+29.			System.out.println("For code '3' - Laptop Section ");
+30.			code=in.nextInt();
+31.			System.out.println();
+32.			
+33.			if(code==1) {
+34.				System.out.println("##### Services Section #####");
+35.				System.out.println("If you're using our services, please 
+ enter the amount of services charge rate per hour as below : ");
+36.				System.out.println("Repairing = 50 \nHardware Installation 
+= 40 \nAntivirus Installation = 80 \nData Recovery = 50 \nMaintainance = 30");
+37.				services=in.nextInt();
+38.				
+39.				System.out.println("Please enter required hour to finish 
+it : ");
+40.				hour=in.nextInt();
+41.				
+42.				System.out.println("You want it ASAP or not?");
+43.				System.out.println("If ASAP, enter '1.5' while if not 
+ASAP, enter '1'");
+44.				customertype=in.nextDouble();
+45.				
+46.				System.out.println("If you need it to be delivered to you, 
+please enter '10'");
+47.				System.out.println("But If you want to come to pick it, 
+please enter '0'");
+48.				shipping=in.nextDouble();
+49.				
+50.				servicesfees=hour*services*customertype+shipping;
+51.				
+52.				System.out.println("Your services amount will be RM" + 
+servicesfees);
+53.				value1=servicesfees;
+54.				System.out.println();
+55.			}
+56.			
+57.			else if(code==2) {
+58.				System.out.println("##### Goods Section #####");
+59.				System.out.println("If you're buying goods, please enter 
+                    the price : ");
+60.				goods=in.nextInt();
+61.				
+62.				while(goods!=0) {
+63.					System.out.println("Please enter the quantity of the 
+                         	goods : ");
+64.					quantity=in.nextInt();
+65.					goodstotal=goods*quantity;
+66.					
+67.					System.out.println("You want it   
+ASAP/Available/Preorder ?");
+68.					System.out.println("If ASAP, enter '1.2' while if 
+                          Available, enter '1.1' and if Preorder, enter '1'");
+69.					goodscond=in.nextDouble();
+70.					
+71.					System.out.println("If you need it to be delivered 
+                         	to you, please enter '5'");
+72.					System.out.println("But If you want to come to pick 
+                          it, please enter '0'");
+73.					shipping=in.nextDouble();
+74.					
+75.					goodsfees=goodstotal*goodscond+shipping;
+76.					sumgoods=sumgoods+goodsfees;
+77.					
+78.					System.out.println("If you're buying goods, please 
+                         	enter the price : ");
+79.					System.out.println("If that's all, please enter 
+                          '0'");
+80.					goods=in.nextInt();
+81.	                         		System.out.println();
+82.					}
+83.				
+84.				System.out.printf("Your goods amount will be RM%.2f" , 
+                    sumgoods);
+85.				value2=sumgoods;
+86.				System.out.println();
+87.			}
+88.			
+89.			else if(code==3) {
+90.				System.out.println("##### Laptop Section #####");
+91.				System.out.println("If you're buying laptop, please enter 
+                    the price : ");
+92.				laptop=in.nextDouble();
+93.				
+94.				System.out.println("You want it ASAP/Available/Preorder 
+                    ?");
+95.				System.out.println("If ASAP, enter '1.2' while if 
+                    Available, enter '1.1' and if Preorder, enter '1'");
+96.				laptopcond=in.nextDouble();
+97.						
+98.				System.out.println("If you need it to be delivered to you, 
+                    please enter '10'");
+99.				System.out.println("But If you want to come to pick it, 
+                    please enter '0'");
+100.				shipping=in.nextDouble();
+101.				
+102.				laptopfees=laptop*laptopcond+shipping;
+103.				
+104.				System.out.printf("Your laptop amount will be   
+                        	RM%.2f" , laptopfees);
+105.				value3=laptopfees;
+106.				System.out.println();
+107.			}
+108.			
+109.			else {
+110.				System.out.println("Invalid code, please enter it again ");
+111.				System.out.println();
+112.				i=i-1;
+113.				}
+114.			totalfees=value1+value2+value3;
+115.			}	
+116.			
+117.			System.out.printf("\nYour total amount will be RM%.2f" , totalfees);
+118.			System.out.println();
+119.			System.out.println("\n***** Thank you for choosing UUM LTE    
+                    Communication Enterprise. *****");
+120.			
+121.			
+122.	
+123.		}
+124.	
+125.	}
+
